@@ -1,11 +1,11 @@
 ### Hi there, I'm Linda 👋
 
-I recently graduated from a **PhD/DPhil in Condensed Matter Physics (Computational Biophysics) from the University of Oxford** 📚🔬. I am currently seeking to transition into **data science** 📈 or computational **drug discovery** 🧬 💊 (including **AI and ML** 💻). 
+I recently graduated from a **PhD/DPhil in Condensed Matter Physics (Computational Biophysics) from the University of Oxford** 📚🔬. I am currently seeking to transition into **data science** 📈 and/or computational **drug discovery** 🧬 💊 (including **AI and ML** 💻). 
 
 
 ## 🌱 I'm currently learning
 - CoGrammar/ HyperionDev Data science
-- USD Drug Discovery 
+- Deep Learning Specializaton - DeepLearning.AI
 
 ## 📬 How to reach me 
 - Email: linda.phan974@gmail.com
