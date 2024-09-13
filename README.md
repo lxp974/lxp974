@@ -5,7 +5,7 @@ I recently graduated from a **PhD/DPhil in Condensed Matter Physics (Computation
 
 ## 🌱 I'm currently learning
 - CoGrammar/ HyperionDev Data science
-- Deep Learning Specializaton - DeepLearning.AI
+- Deep Learning Specialization - DeepLearning.AI
 
 ## 📬 How to reach me 
 - Email: linda.phan974@gmail.com
